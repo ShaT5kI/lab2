@@ -1,0 +1,9 @@
+POP=PopFactory
+PUSH=PushFactory
++=SumFactory
+-=MinusFactory
+*=MultiplyFactory
+/=DivideFactory
+SQRT=SqrtFactory
+PRINT=PrintFactory
+DEFINE=DefineFactory
